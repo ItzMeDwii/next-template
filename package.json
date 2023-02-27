@@ -20,7 +20,7 @@
     "react-dom": "18.2.0",
     "react-hook-form": "^7.34.2",
     "react-hot-toast": "^2.3.0",
-    "yup": "^0.32.11"
+    "yup": "^1.0.1"
   },
   "devDependencies": {
     "@hazmi35/eslint-config": "^8.4.2",
